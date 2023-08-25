@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		CE02DEE72A95DAB8009DB200 /* Flower.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE02DEE62A95DAB8009DB200 /* Flower.swift */; };
 		CE02DEE92A95E223009DB200 /* ColorCyclicRing.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE02DEE82A95E223009DB200 /* ColorCyclicRing.swift */; };
+		CE20AC522A98AEC900A6ED2F /* Checkerboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE20AC512A98AEC900A6ED2F /* Checkerboard.swift */; };
 		CED0AE062A94B1E300F633C1 /* DrawingsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED0AE052A94B1E300F633C1 /* DrawingsApp.swift */; };
 		CED0AE082A94B1E300F633C1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED0AE072A94B1E300F633C1 /* ContentView.swift */; };
 		CED0AE0A2A94B1E600F633C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CED0AE092A94B1E600F633C1 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* Begin PBXFileReference section */
 		CE02DEE62A95DAB8009DB200 /* Flower.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Flower.swift; sourceTree = "<group>"; };
 		CE02DEE82A95E223009DB200 /* ColorCyclicRing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCyclicRing.swift; sourceTree = "<group>"; };
+		CE20AC512A98AEC900A6ED2F /* Checkerboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Checkerboard.swift; sourceTree = "<group>"; };
 		CED0AE022A94B1E300F633C1 /* Drawings.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Drawings.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CED0AE052A94B1E300F633C1 /* DrawingsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingsApp.swift; sourceTree = "<group>"; };
 		CED0AE072A94B1E300F633C1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			children = (
 				CED0AE052A94B1E300F633C1 /* DrawingsApp.swift */,
 				CED0AE072A94B1E300F633C1 /* ContentView.swift */,
+				CE20AC512A98AEC900A6ED2F /* Checkerboard.swift */,
 				CE02DEE82A95E223009DB200 /* ColorCyclicRing.swift */,
 				CE02DEE62A95DAB8009DB200 /* Flower.swift */,
 				CED0AE092A94B1E600F633C1 /* Assets.xcassets */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CED0AE082A94B1E300F633C1 /* ContentView.swift in Sources */,
+				CE20AC522A98AEC900A6ED2F /* Checkerboard.swift in Sources */,
 				CED0AE062A94B1E300F633C1 /* DrawingsApp.swift in Sources */,
 				CE02DEE92A95E223009DB200 /* ColorCyclicRing.swift in Sources */,
 				CE02DEE72A95DAB8009DB200 /* Flower.swift in Sources */,
